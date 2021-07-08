@@ -8,4 +8,5 @@
     <string name="unavailable">Unavailable</string>
 
     <string name="distance_alert_body">Watch your distance, some people is less than 2 meter from you</string>
+    <string name="text_array">text_array</string>
 </resources>
